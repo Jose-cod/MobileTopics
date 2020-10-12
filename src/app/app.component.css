@@ -1,0 +1,19 @@
+#img_logo{
+    width: 75px;
+}
+
+#footer{
+    background: linear-gradient(90deg,#00a24d,#98d033);
+    height: 90px;
+}
+
+a{
+    color: white;
+}
+
+.img_container{
+    width: 90px;
+}
+#header{
+    background: linear-gradient(90deg,#00a24d,#98d033);
+}
