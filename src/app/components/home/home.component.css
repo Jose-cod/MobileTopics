@@ -1,3 +1,12 @@
 .row{
     margin-bottom: 30px;
 }
+
+img{
+    height: 200px;
+    width: auto;
+}
+#imgForm{
+    align-self: center;
+    width: 120px;
+}
